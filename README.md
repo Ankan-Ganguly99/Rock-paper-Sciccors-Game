@@ -1,2 +1,2 @@
 # Rock-paper-Sciccors-Game
-This is rock_paper_scissors game using java
+A simple rock_paper_scissors game
