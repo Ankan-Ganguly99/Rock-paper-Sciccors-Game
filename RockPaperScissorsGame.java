@@ -25,7 +25,7 @@ public class RockPaperScissorsGame {
             System.out.println("Make a guess about the computer's choice.");
             System.out.println("Now, it's your turn.");
             Scanner sc = new Scanner(System.in);
-            System.out.println("Enter your number (0 = rock, 1 = paper, 2 = scissors): ");
+            System.out.print("Enter your number (0 = rock, 1 = paper, 2 = scissors): ");
             int my_num = sc.nextInt();
 
             if (my_num == rock) {
